@@ -3,3 +3,5 @@ git status: kiểm tra file của dữ liệu
 git add *: đẩy file lên sever
 git commit -m"/comment": lưu file trên local
 git push đẩy file lên
+
+git add -a -m"/comment"
